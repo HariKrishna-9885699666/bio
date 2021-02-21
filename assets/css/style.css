@@ -581,11 +581,11 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
-  font-size: 28px;
+  font-size: 20px;
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
   transition: 0.3s;
-  width: 50%;
+  width: 100%;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
@@ -1092,4 +1092,32 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+.skillFontSize {
+  font-size: 23px !important;
+}
+
+.hideMe {
+  display: none !important;
+}
+
+.myWorksLinks {
+  text-align: center;
+}
+
+.myWorksLinks a {
+  font-size: 30px;
+}
+
+.portfolio2FontSize {
+  font-size: 14px !important;
+}
+
+.portfolio-wrap {
+  height: 150px !important;
+}
+
+.img-fluid {
+  height: 150px !important;
 }
