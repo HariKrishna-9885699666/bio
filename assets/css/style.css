@@ -1104,6 +1104,7 @@ section {
 
 .myWorksLinks {
   text-align: center;
+  width: 300px;
 }
 
 .myWorksLinks a {
@@ -1116,6 +1117,7 @@ section {
 
 .portfolio-wrap {
   height: 150px !important;
+  width: 300px !important;
 }
 
 .portfolio-wrap img {
